@@ -1,32 +1,35 @@
 # download-for-pc
-https://lite.pubg.com/download/
 
+[Download](http://bit.ly/pubg-lite-pc)
+
+---
 Install the PUBG LAUNCHER and enjoy PUBG LITE.
 
 Minimum System Requirements
 
-OSWindows 7,8,10, 64bit
+OS Windows 7,8,10, 64bit
 
-CPUCore i3 2.4GHz
+CPU Core i3 2.4GHz
 
-RAM4GB
+RAM 4GB
 
-GPUDirectX11 Intel HD Graphics 4000
+GPU DirectX11 Intel HD Graphics 4000
 
-HDD4GB
+HDD 4GB
 
 ---
 
 Recommended System Requirements
 
-OSWindows 7,8,10, 64bit
+OS Windows 7,8,10, 64bit
 
-CPUCore i5 2.8GHz
+CPU Core i5 2.8GHz
 
-RAM8GB
+RAM 8GB
 
-GPUDirectX11 NVIDIA Geforce GTX 660 or
-
+GPU DirectX11 NVIDIA Geforce GTX 660 or
 AMD Radeon HD 7870
 
-HDD4GB
+HDD 4GB
+
+---
