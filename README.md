@@ -1,4 +1,4 @@
-# download-for-pc
+# Download for pc
 
 [Download](http://bit.ly/pubg-lite-pc)
 
